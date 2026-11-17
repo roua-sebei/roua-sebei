@@ -91,8 +91,8 @@ Cloudflare Workers, D1 SQLite
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: https://www.linkedin.com/in/roua-sebei-7a2717271
+- Email: Rouasebei@gmail.com
 
 ---
 
