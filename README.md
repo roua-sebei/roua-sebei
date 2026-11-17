@@ -1,4 +1,4 @@
-# Hi there, I'm Roua! 👋
+# Hi there, I'm Roua! 
 
 ### Electronics Engineer 
 
